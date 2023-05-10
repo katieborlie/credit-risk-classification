@@ -88,14 +88,14 @@ Use your knowledge of logistic regression to complete the following steps:
 ### Results
 
 
- * **Logistic Regression Model with Original Data**
+ * **Logistic Regression Model with Original Data:**
  
 <img width="50%" alt="Screenshot 2023-05-10 at 3 41 31 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/f4d8cd96-75e4-4507-972a-944aa73b9644">
 
 <img width="50%" alt="Screenshot 2023-05-10 at 3 40 59 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/cbc0557d-a9b2-496c-859c-f598a00a27ac">
 
 
- * **Logistic Regression Model with Randomly Oversampled Data**
+ * **Logistic Regression Model with Randomly Oversampled Data:**
 
 <img width="50%" alt="Screenshot 2023-05-10 at 3 42 28 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/4da609d0-3ceb-4b6e-94e4-c132ac42cbf6">
 
@@ -104,14 +104,14 @@ Use your knowledge of logistic regression to complete the following steps:
 
 ### Summary
 
- * Analysis show that collected data can be effectively used to train and test the Machine Learning Classification Model. For better preditions solving the imbalance sampling issue is needed.
+ * Analysis show that collected data can be effectively used to train and test the Machine Learning Classification Model. 
+ 
+ * Randomly oversampling the data helps us to get higher balanced accuracy and recall scores. With higher recall values, a model can predict risky loans more accurately.
 
- * Randomly oversampling the data helps us to get higher balanced accuracy and recall scores. With higher recall value, model can predict risky loans more accurately.
+ * The Logistic Regression Model with Original Data is less likely to predict false negative results.
+ 
+ * Based on the confusion matrices for each model, the Logistic Regression Model with Randomly Oversampled Data predicted slightly more false positives (low-risk when the actual was high-risk).
 
- * With incorrect predictions we have two issues:
+ * The Logistic Regression Model with Randomly Oversampled Data had fewer false predictions of the testing data overall and would be the best model to use based on the high accuracy and recall of this model.
 
-  * False positives (where users are flagged as risky, but are actually healthy)
 
-  * False negatives (where users are not flagged as risky but are actually risky)
-
-  * Both cases have its costs. It is important to predict both 1s and 0s. Therefore, model should have good accuracy in terms of both.
