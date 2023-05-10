@@ -59,7 +59,7 @@ Use your knowledge of logistic regression to complete the following steps:
 
 4. Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
-### Overview of Analysis
+## Overview of Analysis
 
   * The purpose of this analysis is to create a model that identifies the creditworthiness of borrowers.
   
@@ -116,6 +116,6 @@ Use your knowledge of logistic regression to complete the following steps:
  
  * Based on the confusion matrices for each model, the Logistic Regression Model with Randomly Oversampled Data predicted slightly more false positives (low-risk when the actual was high-risk).
 
- * The Logistic Regression Model with Randomly Oversampled Data had fewer false predictions of the testing data overall and would be the best model to use based on the high accuracy and recall of this model.
+ * The Logistic Regression Model with Randomly Oversampled Data had fewer false predictions of the testing data overall and would recommend this as the best model to use based on the high accuracy and recall of this model.
 
 
