@@ -108,7 +108,7 @@ Use your knowledge of logistic regression to complete the following steps:
 
 ### Summary
 
- * Analysis show that collected data can be effectively used to train and test the Machine Learning Classification Model. 
+ * Analysis shows that collected data can be effectively used to train and test the Machine Learning Classification Model. 
  
  * Randomly oversampling the data helps us to get higher balanced accuracy and recall scores. With higher recall values, a model can predict risky loans more accurately.
 
@@ -116,6 +116,6 @@ Use your knowledge of logistic regression to complete the following steps:
  
  * Based on the confusion matrices for each model, the Logistic Regression Model with Randomly Oversampled Data predicted slightly more false positives (low-risk when the actual was high-risk).
 
- * The Logistic Regression Model with Randomly Oversampled Data had fewer false predictions of the testing data overall and would recommend this as the best model to use based on the high accuracy and recall of this model.
+ * The Logistic Regression Model with Randomly Oversampled Data had fewer false predictions of the testing data overall and I would recommend this as the best model to use based on the high accuracy and recall of this model.
 
 
