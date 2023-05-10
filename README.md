@@ -1,6 +1,6 @@
 # Module 20 Challenge: credit-risk-classification 
 
-<img width="100%" alt="Screenshot 2023-05-10 at 1 52 11 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/24cd75ee-ec62-4ce9-b95e-de180708f583">
+<img width="100%" alt="Screenshot 2023-05-10 at 1 53 32 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/abf8996b-e666-492e-8a71-811239b51c63">
 
 ## Background
 
