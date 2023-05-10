@@ -87,15 +87,15 @@ Use your knowledge of logistic regression to complete the following steps:
 
 ### Results
 
- * Logistic Regression Model with Original Data
+ * **Logistic Regression Model with Original Data**
  
-<img width="25%" alt="Screenshot 2023-05-10 at 3 41 31 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/f4d8cd96-75e4-4507-972a-944aa73b9644">
+<img width="50%" alt="Screenshot 2023-05-10 at 3 41 31 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/f4d8cd96-75e4-4507-972a-944aa73b9644">
 
 <img width="50%" alt="Screenshot 2023-05-10 at 3 40 59 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/cbc0557d-a9b2-496c-859c-f598a00a27ac">
 
- * Logistic Regression Model with Randomly Oversampled Data
+ * **Logistic Regression Model with Randomly Oversampled Data**
 
-<img width="25%" alt="Screenshot 2023-05-10 at 3 42 28 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/4da609d0-3ceb-4b6e-94e4-c132ac42cbf6">
+<img width="50%" alt="Screenshot 2023-05-10 at 3 42 28 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/4da609d0-3ceb-4b6e-94e4-c132ac42cbf6">
 
 <img width="50%" alt="Screenshot 2023-05-10 at 3 42 06 PM" src="https://github.com/katieborlie/credit-risk-classification/assets/119274891/4fa018c8-ae6b-406f-a422-4d89ecf3c7cd">
 
